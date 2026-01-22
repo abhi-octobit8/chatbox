@@ -3,4 +3,4 @@ import sys
 
 print("This is the main file. Everything will start from here")
 
-msg = []
+msg = ["I am in Gym", "I am travelling"]
